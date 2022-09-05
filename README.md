@@ -1,6 +1,8 @@
 # todo-list
+Deployed project you can find here: https://nastiaherych.github.io/todo-list/
 
-Project todo-list-manager was made in React. A user can: add,edit, delete the task, mark the task as completed;
+Project todo-list-manager was made in React.
+A user can: add,edit, delete the task, mark the task as completed;
 Data is saved in local storage, so you can see your notes after refresh the page.
 Additional libraries and tools, that was used:
 - reactstrap for creating modals
